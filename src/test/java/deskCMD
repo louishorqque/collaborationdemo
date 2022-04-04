@@ -1,0 +1,43 @@
+===============================================================================
+Properties
+==============================================================================
+- Product Title
+- Product Description/Measurement
+- Product Prices
+- Product IMG
+- Sort Filter
+- Color Filter
+- Size Filter
+- All Filters
+- Compare Mode
+- Room Mode / Product Mode
+- Heart Product
+- Cart Adder
+- Variant Selector
+- Show More
+- Related Categories
+
+
+
+
+
+
+===============================================================================
+Behavior
+===============================================================================
+- titleProduct();
+- descriptionProduct();
+- pricesProduct();
+- imgProduct();
+- filterSort();
+- filterColor();
+- filterSize();
+- filterAll();
+- modeCompare();
+- modeRoom();
+- modeProduct();
+- productHeart();
+- addCart();
+- variantSel();
+- showMore();
+- categoriesRel();

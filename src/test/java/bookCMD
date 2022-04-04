@@ -1,0 +1,114 @@
+===============================================================================
+Properties
+==============================================================================
+- Book Title
+- Book Ranking
+- Book Description
+- Search
+- Sort Function
+- View Cart
+- Home PAge
+- Scroll down
+- language sort
+- Bundles Titles
+- Bundles Rating
+- Bundles Description
+- Courses Titles
+- Courses Ratings
+- See More
+- Path Sort
+- Readers List
+- Weekly Sale Link
+- Monthly Sale Link
+- Store
+- Home Link
+- Redeem a Token Link
+- Search Link
+- Leanpub FAQ Link
+- Leanpub Author FAQ
+- Helpcenter link
+- Contact Link
+- Featured Episode Link
+- Episode Link
+- About Leanpub Link
+- Blog Link
+- Contact Link
+- Press Link
+- Essays Link
+- Manifesto Link
+- Covid 19 Link
+- Causes Link
+- Accessibility Link
+- Create a Book Link
+- Create a Course Link
+- Testimonials Link
+- Why Leanpub Link
+- The Leanpub Authoer Update Link
+- Author Help Center
+- Leanpub Author Forum
+- The Leanpub Manual
+- Supported Languages Link
+- The LFM Manual Link
+- The Markua Manual Link
+- API Docs Link
+- Learn More Link
+- Sign up link
+- Universities Program Link
+- Terms of Service Link
+- Copyright Policy Link
+- Privacy Policy Link
+- Refund Policy Link
+
+
+
+===============================================================================
+Behavior
+===============================================================================
+- bookTitle();
+- bookRank();
+- bookDesc();
+- searchBar();
+- viewCart();
+- homePage();
+- scrollDown();
+- langSort();
+- bundlesTitle();
+- bundlesRate();
+- bundlesDesc();
+- courseTitle();
+- courseRank();
+- seeMore();
+- pathNav();
+- weekSale();
+- monthSale();
+- linkHome();
+- linkTokenR();
+- linkSearch();
+- linkFAQ();
+- linkAFAQ();
+- linkSHealthCent();
+- linkContact();
+- linkPress();
+- linkClimChange();
+- linkManifesto();
+- linkCov19();
+- linkCauses();
+- linkAccess();
+- linkBookCreate();
+- linkCourseCreate();
+- linkTestimonial();
+- linkWhyLeanP();
+- linkLeanPAuthorUpdate();
+- linkAuthorHelpC();
+- linkLeanPubManual();
+- linkSupportedLang();
+- linkLFMManual();
+- linkMarkuaManual();
+- linkAPIDocs();
+- linkLearnMore();
+- linkSignUp();
+- linkUniPrograms();
+- linkTermsOfServ();
+- linkCopyrightPol();
+- linkPrivacyPol();
+- linkRefundPol();

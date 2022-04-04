@@ -1,0 +1,75 @@
+===============================================================================
+Properties
+==============================================================================
+- Home Button
+- Menu Scroll
+- Search Function
+- Top Deals Link
+- Deals of the Day Link
+- Totaltech Membership Link
+- More Link
+- Account Link
+- Recently Viewed Link
+- Order Status Link
+- Saved Items Link
+- Cart Link
+- Store Selection Link
+- Navigation Link
+- Phone Model
+- Phone Image
+- Deals Link
+- Model Description
+- SKU Description
+- Star Rating
+- Display Customer Review
+- See All Reviews Button
+- Phone Price Display
+- Apple Music Link
+- Phone Details Link
+- Update Pick up Location
+- Free Shipping Link
+- See all Phones With Plan Link
+- Notify Me Link
+- Add to Cart Link
+- Related Items Link
+- Support Center Link
+- Order Status Link
+- Shipping, Delivery, Store Link
+
+
+
+
+
+===============================================================================
+Behavior
+===============================================================================
+- buttonHome();
+- scrollMenu();
+- searchBar();
+- dealsLink();
+- memberTTLink();
+- moreLink();
+- accountLink();
+- recentViewLink();
+- orderStatusLink();
+- savedItemsLink();
+- cartLink();
+- storeSelLink();
+- navLink();
+- modelPhone();
+- descSku();
+- starRating();
+- modelReview();
+- allReviews();
+- phonePrice();
+- appleMLink();
+- phoneDetail();
+- pickUpLocLink();
+- freeShippingLink();
+- allPhonesLink();
+- notifyMeLink();
+- addToCart();
+- itemsRelated();
+- supportCenterLink();
+- orderStatusLink();
+- shipDelStoLink();
